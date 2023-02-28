@@ -10,11 +10,11 @@
 
 # My skill✨
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,ts,py,go,graphql,r,php,c,java,processing)](https://github.com/398noe)
+[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,ts,graphql,py,go,r,php,c,java,processing)](https://github.com/398noe)
 ## Libraries
-[![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,gatsby,tailwind,prisma,laravel)](https://github.com/398noe)
+[![Libraries](https://skillicons.dev/icons?i=react,nextjs,gatsby,vue,nuxtjs,tailwind,prisma,laravel)](https://github.com/398noe)
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=docker,postgres,redis,figma,xd,)](https://github.com/398noe)
+[![Tools](https://skillicons.dev/icons?i=docker,postgres,redis,figma,xd)](https://github.com/398noe)
 ## Services
 [![Services](https://skillicons.dev/icons?i=github,gitlab,cloudflare,workers,postman)](https://github.com/398noe)
 
