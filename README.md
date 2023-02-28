@@ -5,7 +5,7 @@
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=398noe)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 # MyProject
 ## hais.in | URL shortener service for live streamer
