@@ -4,8 +4,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=398noe&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=398noe&theme=github_dark&utcOffset=9)
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&layout=compact&count_private=true&show_icons=true&theme=transparent" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true&theme=transparent" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
