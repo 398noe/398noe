@@ -1,8 +1,9 @@
 # Hi there 👋
 
+
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&layout=compact&count_private=true&show_icons=true" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
