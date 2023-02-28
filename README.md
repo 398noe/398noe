@@ -1,5 +1,4 @@
 # Hi there 👋
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=398noe&theme=github_dark)
 
 <div>
@@ -8,6 +7,19 @@
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B&theme=discord&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+# My skill✨
+## Languages
+[![Languages](https://skillicons.dev/icons?i=bash,html,css,js,ts,py,go,graphql,r,php,c,java,processing)](https://github.com/398noe)
+## Libraries
+[![Libraries](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,gatsby,tailwind,prisma,laravel)](https://github.com/398noe)
+## Tools
+[![Tools](https://skillicons.dev/icons?i=docker,postgres,redis,figma,xd,)](https://github.com/398noe)
+## Services
+[![Services](https://skillicons.dev/icons?i=github,gitlab,cloudflare,workers,postman)](https://github.com/398noe)
+
+
+
 
 # MyProject
 ## hais.in | URL shortener service for live streamer
