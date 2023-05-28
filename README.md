@@ -3,7 +3,7 @@
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&layout=compact&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true&theme=transparent"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&count_private=true&show_icons=true&show_icons=true&hide_rank=true&theme=transparent"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B&theme=discord&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
