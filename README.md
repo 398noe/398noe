@@ -22,15 +22,20 @@
 
 
 # MyProject
-## hais.in | URL shortener service for live streamer
-2023/02〜now  
-[https://github.com/haisin-official](https://github.com/haisin-official)  
-hais.in is the URL shortener service for live streamer.
+## Liminality | Rhythm Game
+2019/04~now
+[https://liminality.ninja](https://liminality.ninja)
+Liminality is a music game for smartphones featuring semi-circle shaped lanes.
 
 ## VSMR | Virtual ASMR  
 2020/04〜now  
 [https://github.com/VSMR](https://github.com/VSMR)  
 VSMR is voice chat project for binaural collaboration on the Internet.
+
+## hais.in | URL shortener service for live streamer
+2023/02〜now  
+[https://github.com/haisin-official](https://github.com/haisin-official)  
+hais.in is the URL shortener service for live streamer.
 
 ---
 
@@ -49,6 +54,9 @@ Suru is superior entity to siri😎 Suru supports voice input and reads the outp
 [https://github.com/398noe/4cil](https://github.com/398noe/4cil)  
 4CIL is a service that allows you to immediately declare your intention to use the terms of use of copyrighted works.
 
+<!--
+I was worked at LUCO.inc
+-->
 <!--
 **398noe/398noe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
