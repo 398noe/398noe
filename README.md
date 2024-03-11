@@ -25,7 +25,7 @@
 # MyProject
 ## Liminality | Rhythm Game
 2019/04~now
-[https://liminality.ninja](https://liminality.ninja)
+[https://liminality.ninja](https://liminality.ninja)  
 Liminality is a music game for smartphones featuring semi-circle shaped lanes.
 
 ## VSMR | Virtual ASMR  
