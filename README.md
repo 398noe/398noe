@@ -20,6 +20,7 @@
 
 
 # JoinedProject
+<!--I have joined in several projects when I was a college student. Now I am looking for work.-->
 (ﾉФωФ)ﾉ
 
 # MyProject
@@ -28,13 +29,18 @@
 [https://liminality.ninja](https://liminality.ninja)  
 Liminality is a music game for smartphones featuring semi-circle shaped lanes.
 
+## 4CIL | 4 Character Internet License
+2022/04～now (updated✨)
+[https://github.com/398noe/4cil](https://github.com/398noe/4cil)  
+4CIL is a service that allows you to immediately declare your intention to use the terms of use of copyrighted works.
+
 ## VSMR | Virtual ASMR  
-2020/04〜now  
+2020/04〜now (will be update by 6-months👀)
 [https://github.com/VSMR](https://github.com/VSMR)  
 VSMR is voice chat project for binaural collaboration on the Internet.
 
 ## hais.in | URL shortener service for live streamer
-2023/02〜now  
+2023/02〜now  (will be update by 6-months👀)
 [https://github.com/haisin-official](https://github.com/haisin-official)  
 hais.in is the URL shortener service for live streamer.
 
@@ -49,11 +55,6 @@ Tezos card stores your data on tezos block chain as profile card.
 2023/01  
 [https://github.com/398noe/suru](https://github.com/398noe/suru)  
 Suru is superior entity to siri😎 Suru supports voice input and reads the output of OpenAI.
-
-## 4CIL | 4 Character Internet License
-2022/04  
-[https://github.com/398noe/4cil](https://github.com/398noe/4cil)  
-4CIL is a service that allows you to immediately declare your intention to use the terms of use of copyrighted works.
 
 <!--
 **398noe/398noe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
