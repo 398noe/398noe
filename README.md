@@ -188,49 +188,58 @@
 This is a project I am personally working on or collaborating on as a hobby.
 
 ## Liminality | Rhythm Game
+<img width="300px" src="./projects/liminality.png" alt="liminality"/>
 
-2019/04~now (released✨)
 [https://liminality.ninja](https://liminality.ninja)  
-Liminality is a music game for smartphones featuring semi-circle shaped lanes.
+Liminality is a music game for smartphones featuring semi-circle shaped lanes. I am the composer, web engineer and server side engineer for this game.
+
+2019/04~now (released✨)  
 
 ## 4CIL | 4 Character Internet License
+<img width="300px" src="./projects/4cil.png" alt="4cil"/>
 
-2022/04 ～ now (updated✨)
 [https://github.com/398noe/4cil](https://github.com/398noe/4cil)  
 4CIL is a service that allows you to immediately declare your intention to use the terms of use of copyrighted works. written with typescript.
 
-## VSMR | Virtual ASMR
+2022/04~now (updated✨)
 
-2020/04〜now (will be update within 6-months👀)
-[https://github.com/VSMR](https://github.com/VSMR)  
+## VSMR | Virtual ASMR
+<img width="300px" src="./projects/vsmr.png" alt="VSMR"/>
+
+[https://github.com/VSMR](https://github.com/VSMR)  s
 VSMR is voice chat project for binaural collaboration on the Internet. written with typescript.
+
+2020/04~now (will be update within 6-months👀)
 
 ## hais.in | URL shortener service for live streamer
 
-2023/02〜now (will be update within 6-months👀)
 [https://github.com/haisin-official](https://github.com/haisin-official)  
 hais.in is the URL shortener service for live streamer. written with golang.
 
+2023/02~now (will be update within 6-months👀)
+
 ## Tourette Lab (private personal project)
 
-2024/04 ～ now (in progress👀)
 [https://github.com/398noe/tourette-lab](https://github.com/398noe/tourette-lab)  
-Collection of tools for the Tourette Syndrome or Vocal Tic.
-Make a SVM model and infer which can predict whether input sound is a vocal tic or not. written with python and c++.
+Collection of tools for the Tourette Syndrome or Vocal Tic. Make a SVM model and infer which can predict whether input sound is a vocal tic or not. written with python and c++.
+
+2024/04 ～ now (in progress👀)
 
 ---
 
 ## Tezos Card
+<img width="300px" src="./projects/tezoscard.png" alt="tezos card">
 
-2022/11  
 [https://github.com/398noe/tezos-card](https://github.com/398noe/tezos-card)  
 Tezos card stores your data on tezos block chain as profile card.
 
-## Suru
+2022/11  
 
-2023/01  
+## Suru
 [https://github.com/398noe/suru](https://github.com/398noe/suru)  
 Suru is superior entity to siri😎 Suru supports voice input and reads the output of OpenAI.
+
+2023/01
 
 <!--
 **398noe/398noe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
