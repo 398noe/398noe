@@ -77,7 +77,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%2346A5E1.svg?style=for-the-badge)
 
-### Other
+### Markup
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-%23F9AC00.svg?style=for-the-badge&logo=mdx&logoColor=white)
@@ -178,6 +178,12 @@
 ![Cisco](https://img.shields.io/badge/Cisco-%230077B5.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 ![VyOS](https://img.shields.io/badge/VyOS-%234169E1.svg?style=for-the-badge&logo=vyos&logoColor=white)
 
+## Skills / Qualifications
+- 2020/12 [Applied Information Technology Engineer Examination](https://www.ipa.go.jp/shiken/kubun/ap.html)
+- 2021/06 [Registered Information Security Specialist Examination](https://www.ipa.go.jp/shiken/kubun/sc.html)
+- 2021/10 Registered Information Security Specialist
+- 2022/06 [Network Specialist Examination](https://www.ipa.go.jp/shiken/kubun/nw.html)
+- 2024/06 Test of English for International Communication  - score 765 (2024/06/08 #355)
 
 # JoinedProject
 <!--I have joined in several projects. However I am looking for work. It's time to do something new.-->
