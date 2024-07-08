@@ -165,6 +165,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## I'm learning ✏️
+![OpenGL](https://img.shields.io/badge/opengl-%235586a4.svg?style=for-the-badge&logo=opengl&logoColor=white)
 
 ## I wanna learn 📖
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -183,7 +185,7 @@
 - 2021/06 [Registered Information Security Specialist Examination](https://www.ipa.go.jp/shiken/kubun/sc.html)
 - 2021/10 Registered Information Security Specialist
 - 2022/06 [Network Specialist Examination](https://www.ipa.go.jp/shiken/kubun/nw.html)
-- 2024/06 Test of English for International Communication  - score 765 (2024/06/08 #355)
+- 2024/06 Test of English for International Communication  - score 765
 
 # JoinedProject
 <!--I have joined in several projects. However I am looking for work. It's time to do something new.-->
