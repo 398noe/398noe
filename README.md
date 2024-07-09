@@ -195,6 +195,12 @@
 
 This is a project I am personally working on or collaborating on as a hobby.
 
+## Sound Imagine
+[sound-imagine](https://github.com/398noe/sound-imagine)  
+Sound Imagine is audio analyzer for mixing. It performs an FFT on the input audio and plots the frequency, Mid-Side, and L-R components in 3D space to characterize the sound source.
+
+2024/06~now (need help 🩹)
+
 ## Liminality | Rhythm Game
 <img width="300px" src="./projects/liminality.png" alt="liminality"/>
 
@@ -214,7 +220,7 @@ Liminality is a music game for smartphones featuring semi-circle shaped lanes. I
 ## VSMR | Virtual ASMR
 <img width="300px" src="./projects/vsmr.png" alt="VSMR"/>
 
-[https://github.com/VSMR](https://github.com/VSMR)  s
+[https://github.com/VSMR](https://github.com/VSMR)  
 VSMR is voice chat project for binaural collaboration on the Internet. written with typescript.
 
 2020/04~now (will be update within 6-months👀)
