@@ -76,6 +76,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%2346A5E1.svg?style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/opengl-%235586a4.svg?style=for-the-badge&logo=opengl&logoColor=white)
 
 ### Markup
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -124,6 +125,10 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+### Data Analytics
+![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
+
+
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -165,12 +170,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## I'm learning ✏️
-![OpenGL](https://img.shields.io/badge/opengl-%235586a4.svg?style=for-the-badge&logo=opengl&logoColor=white)
+## I'm learning 🎩
+![baselime](https://img.shields.io/badge/baselime-%23a7ea54.svg?style=for-the-badge)
+![opentelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=OpenTelemetry&logoColor=white)
 
 ## I wanna learn 📖
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![baselime](https://img.shields.io/badge/baselime-%23a7ea54.svg?style=for-the-badge)
 ![grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=#000000)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge)
