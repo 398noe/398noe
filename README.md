@@ -190,7 +190,8 @@
 - 2021/06 [Registered Information Security Specialist Examination](https://www.ipa.go.jp/shiken/kubun/sc.html)
 - 2021/10 Registered Information Security Specialist
 - 2022/06 [Network Specialist Examination](https://www.ipa.go.jp/shiken/kubun/nw.html)
-- 2024/06 Test of English for International Communication  - score 765
+- 2024/06 TOEIC® Listening & Reading Test - score 765
+- 2024/12 TOEIC® Listening & Reading Institutional Program (IP) online Test - score 865
 
 # JoinedProject
 <!--I have joined in several projects. However I am looking for work. It's time to do something new.-->
