@@ -165,24 +165,23 @@
 
 ### Network
 ![Ubiquti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![CiscoCatalyst](https://img.shields.io/badge/Cisco-%230077B5.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## I'm learning 🎩
-![baselime](https://img.shields.io/badge/baselime-%23a7ea54.svg?style=for-the-badge)
 ![opentelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=OpenTelemetry&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=#000000)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge)
 
 ## I wanna learn 📖
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=#000000)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![ClipStudioPaint](https://img.shields.io/badge/ClipStudioPaint-%23000000.svg?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%230077B5.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 ![VyOS](https://img.shields.io/badge/VyOS-%234169E1.svg?style=for-the-badge&logo=vyos&logoColor=white)
 
 ## Skills / Qualifications
