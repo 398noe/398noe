@@ -91,6 +91,7 @@
 ![CloudflareD1](https://img.shields.io/badge/D1-%23F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TiDB](https://img.shields.io/badge/TiDB-%23DC150B.svg?style=for-the-badge)
 
 ### ORM
 ![Drizzle](https://img.shields.io/badge/Drizzle-%23c5f74f?style=for-the-badge&logo=Drizzle&logoColor=black)
