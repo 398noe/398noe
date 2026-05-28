@@ -197,16 +197,28 @@
 <!--I have joined in several projects. However I am looking for work. It's time to do something new.-->
 (*ΦωΦ)੭⁾⁾✨
 
-Sucolab — A web-based streaming overlay design service for VTubers; built the backend and infrastructure.
+## Sucolab | Live Streaming Overlay Creation Service for VTuber
+Sucolab is a web-based streaming overlay design service for VTubers;
+built the backend and infrastructure.
+
 2021~2022
 
-Engene — A VSinger project; handled live streaming setup and AI voice model training.
+## En-gene | New VSinger Project
+Engene is a VSinger project;
+handled live streaming setup and AI voice model training.
+
 2023~2024
 
-SAZO — A cross-border e-commerce platform between Japan and Korea; implemented backend APIs and built a data analytics infrastructure with Looker and BigQuery.
+## SAZO | Cross border E-Commerce Platform
+SAZO is a cross-border e-commerce platform between Japan and Korea;
+implemented backend APIs and built a data analytics infrastructure with Looker and BigQuery.
+
 2024~2025
 
-Yorukuru — A new SaaS platform for the Night Workers; Currently in rapid development with AI.
+## YORUKURU | New SaaS Platform for Night Workers
+Yorukuru is a new SaaS platform for the Night Workers;
+Currently in rapid development with AI.
+
 2026~
 
 # My Personal Project
