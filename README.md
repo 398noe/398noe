@@ -215,7 +215,7 @@ implemented backend APIs and built a data analytics infrastructure with Looker a
 
 2024~2025
 
-## YORUKURU | New SaaS Platform for Night Workers
+## YORUKURU | New SaaS Platform for Night Entertainment
 Yorukuru is a new SaaS platform for the Night Workers;
 Currently in rapid development with AI.
 
