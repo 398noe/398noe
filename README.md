@@ -2,12 +2,16 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=398noe&theme=github_dark)
 
+<!--
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=398noe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=398noe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
+-->
 
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=398noe&rank=-C,-B&theme=discord&no-bg=true&margin-w=15"/>
+-->
 
 # My skills✨
 
@@ -129,7 +133,6 @@
 ### Data Analytics
 ![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 
-
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -163,6 +166,7 @@
 ### Hypervisor
 ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=VMware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-4D4D4D?style=for-the-badge&logo=Proxmox&logoColor=white)
+![Nutanix](https://img.shields.io/badge/-Nutanix-024DA1?style=flat&logo=nutanix&logoColor=white)
 
 ### Network
 ![Ubiquti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
@@ -198,6 +202,7 @@
 (*ΦωΦ)੭⁾⁾✨
 
 ## Sucolab | Live Streaming Overlay Creation Service for VTuber
+[スコラボ - 「盛り上がる」が、盛りだくさん](https://www.sucolab.jp/)  
 Sucolab is a web-based streaming overlay design service for VTubers;
 built the backend and infrastructure.
 
@@ -210,6 +215,7 @@ handled live streaming setup and AI voice model training.
 2023~2024
 
 ## SAZO | Cross border E-Commerce Platform
+[株式会社SAZO | AIX越境EC｜AI X CROSSBORDER ECOMMERCE](https://about.sazo.shop/)  
 SAZO is a cross-border e-commerce platform between Japan and Korea;
 implemented backend APIs and built a data analytics infrastructure with Looker and BigQuery.
 
@@ -219,7 +225,7 @@ implemented backend APIs and built a data analytics infrastructure with Looker a
 Yorukuru is a new SaaS platform for the Night Workers;
 Currently in rapid development with AI.
 
-2026~
+2026~now
 
 # My Personal Project
 
@@ -229,7 +235,7 @@ This is a project I am personally working on or collaborating on as a hobby.
 [sound-imagine](https://github.com/398noe/sound-imagine)  
 Sound Imagine is audio analyzer for mixing. It performs an FFT on the input audio and plots the frequency, Mid-Side, and L-R components in 3D space to characterize the sound source.
 
-2024/06~now (need help 🩹)
+2024/06~now (currently stop 🩹)
 
 ## Liminality | Rhythm Game
 <img width="300px" src="./projects/liminality.png" alt="liminality"/>
@@ -245,7 +251,7 @@ Liminality is a music game for smartphones featuring semi-circle shaped lanes. I
 [https://github.com/398noe/4cil](https://github.com/398noe/4cil)  
 4CIL is a service that allows you to immediately declare your intention to use the terms of use of copyrighted works. written with typescript.
 
-2022/04~now (updated✨)
+2022/04~now (currently only maintain ✨)
 
 ## VSMR | Virtual ASMR
 <img width="300px" src="./projects/vsmr.png" alt="VSMR"/>
@@ -253,21 +259,21 @@ Liminality is a music game for smartphones featuring semi-circle shaped lanes. I
 [https://github.com/VSMR](https://github.com/VSMR)  
 VSMR is voice chat project for binaural collaboration on the Internet. written with typescript.
 
-2020/04~now (will be update within 6-months👀)
+2020/04~now (maintain and develop slowly 👀)
 
 ## hais.in | URL shortener service for live streamer
 
 [https://github.com/haisin-official](https://github.com/haisin-official)  
 hais.in is the URL shortener service for live streamer. written with golang.
 
-2023/02~now (will be update within 6-months👀)
+2023/02~now (currently stopped)
 
 ## Tourette Lab (private personal project)
 
 [https://github.com/398noe/tourette-lab](https://github.com/398noe/tourette-lab)  
 Collection of tools for the Tourette Syndrome or Vocal Tic. Make a SVM model and infer which can predict whether input sound is a vocal tic or not. written with python and c++.
 
-2024/04 ～ now (in progress👀)
+2024/04 ～ now (currently almost stop but wanna update 👀)
 
 ---
 
@@ -277,13 +283,13 @@ Collection of tools for the Tourette Syndrome or Vocal Tic. Make a SVM model and
 [https://github.com/398noe/tezos-card](https://github.com/398noe/tezos-card)  
 Tezos card stores your data on tezos block chain as profile card.
 
-2022/11  
+2022/11 (Maintain only)
 
 ## Suru
 [https://github.com/398noe/suru](https://github.com/398noe/suru)  
 Suru is superior entity to siri😎 Suru supports voice input and reads the output of OpenAI.
 
-2023/01
+2023/01 (Finished)
 
 <!--
 **398noe/398noe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
