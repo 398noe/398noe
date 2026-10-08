@@ -232,10 +232,13 @@ Currently in rapid development with AI.
 This is a project I am personally working on or collaborating on as a hobby.
 
 ## Sound Imagine
+<img width="300px" alt="soung-imagine" src="https://github.com/user-attachments/assets/1faed883-aaec-400b-b165-b8662c0223ed" />
+
 [sound-imagine](https://github.com/398noe/sound-imagine)  
 Sound Imagine is audio analyzer for mixing. It performs an FFT on the input audio and plots the frequency, Mid-Side, and L-R components in 3D space to characterize the sound source.
 
-2024/06~now (currently stop 🩹)
+
+2024/06~now (updated!!)
 
 ## Liminality | Rhythm Game
 <img width="300px" src="./projects/liminality.png" alt="liminality"/>
